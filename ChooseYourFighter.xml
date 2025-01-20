@@ -1,0 +1,26 @@
+<KernelmethodChooseYourFighter>
+<group ID="ElysianTiles" Name="Elysians">
+<model ID="MasterTile" Name="{{Y-Y-M-Y-Y-Y sequence|The Master}}">
+        <tile Path="themaster.png" Foreground="Y" DetailColor="y" />
+    </model>
+<model ID="GeetzTile" Name="{{c-c-C-Y-W-k-W-Y-C-c-c-c-c sequence|Servitor Unit Geetz}}">
+        <tile Path="geetztile.png" Foreground="Y" DetailColor="y" />
+    </model>
+
+    <model ID="GaatzTile" Name="{{c-c-c-C-Y-W-Y-C sequence|Servitor Unit Gaatz}}">
+        <tile Path="gaatztile.png" Foreground="Y" DetailColor="K" />
+    </model>
+
+    <model ID="YunaTile" Name="{{c-c-c-C-Y-W-Y-C sequence|Mother Unit Yuna}}">
+    <tile Path="yunatile.png" Foreground="Y" DetailColor="K" />
+    </model>
+
+    <model ID="SeraTile" Name="{{c-c-C-Y-W-k-W-Y-C-c-c-c-c sequence|Mother Unit Sera}}">
+        <tile Path="seratile.png" Foreground="Y" DetailColor="y" />
+    </model>
+
+    <model ID="JunoTile" Name="{{c-c-C-C-W-C-C-c-c alternation|Purifier Unit Juno}}">
+        <tile Path="junotile.png" Foreground="Y" DetailColor="y" />
+    </model>
+</group>
+</KernelmethodChooseYourFighter>
